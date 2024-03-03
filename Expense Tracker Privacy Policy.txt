@@ -1,0 +1,26 @@
+Privacy Policy:
+
+Thank you for using Expense Tracker, a mobile application available on the Google Play Store. Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and store data when you use our app.
+
+1. Data Collection:
+   Expense Tracker does not collect any personal data from its users. We do not require you to provide any personal information to use the app.
+
+2. Data Storage:
+   Expense Tracker stores data locally on your device only. This includes the expenses and any related information you input into the app. We do not transfer or store this data on our servers or any external storage.
+
+3. Permissions:
+   The app requires permission to access your device's storage in order to store and retrieve expense data. This permission is necessary for the proper functioning of the app. Expense Tracker does not access any other data or features of your device without your explicit consent.
+
+4. Data Usage:
+   Expense Tracker solely uses the data stored on your device for the purpose of providing its core functionality, which is tracking your expenses. We do not analyze or share this data with third parties.
+
+5. Security:
+   We take reasonable measures to ensure the security of the data stored within the app. However, please be aware that no method of transmission over the internet or electronic storage is 100% secure. Therefore, while we strive to protect your data, we cannot guarantee its absolute security.
+
+6. Changes to this Privacy Policy:
+   We reserve the right to update or modify this Privacy Policy at any time. Any changes will be reflected on this page. We encourage you to review this Privacy Policy periodically for any updates.
+
+7. Contact Us:
+   If you have any questions or concerns regarding this Privacy Policy or the use of Expense Tracker, please contact us at [your contact email or support address].
+
+By using Expense Tracker, you agree to the terms outlined in this Privacy Policy. If you do not agree with these terms, please do not use the app.
